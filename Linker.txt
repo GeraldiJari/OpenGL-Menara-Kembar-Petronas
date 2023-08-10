@@ -1,0 +1,5 @@
+Linker:
+
+-lglu32
+-lfreeglut
+-lopengl32
